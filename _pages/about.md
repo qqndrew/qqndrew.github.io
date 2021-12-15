@@ -10,7 +10,7 @@ redirect_from:
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
-# Selected First-Author Publications
+## Selected First-Author Publications
 
 *  __Wen A__, Wang L, He H, Liu S, Fu S, Sohn S, Kugel JA, Kaggal VC, Huang M, Wang Y, Shen F, Fan J, Liu H.  An aberration detection-based approach for sentinel syndromic surveillance of COVID-19 and other novel influenza-like illnesses. J Biomed Inform. 2020 Dec 13; 113:103660 [Epub ahead of print] PMID: [33321199](https://pubmed.ncbi.nlm.nih.gov/33321199)   PMCID: 7832634   DOI: 10.1016/j.jbi.2020.103660
 *  __Wen A__, Shen F, Moon S, Liu H, Fan J, "A Deep Profiling and Visualization Framework to Audit Clinical Assessment Variation," 2020 IEEE 33rd International Symposium on Computer-Based Medical Systems (CBMS), Rochester, MN, USA, 2020, pp. 546-551, doi: 10.1109/CBMS49503.2020.00109.
@@ -18,9 +18,9 @@ This is the front page of a website that is powered by the [academicpages templa
 *  __Wen A__, El Wazir M, Moon S, Fan J. Adapting and evaluating a deep learning language model for clinical why-question answering. JAMIA Open. 2020 Feb 04. DOI: 10.1093/jamiaopen/ooz072
 *  __Wen A__, Fu S, Moon S, El Wazir M, Rosenbaum A, Kaggal VC, Liu S, Sohn S, Liu H, Fan J.  Desiderata for delivering NLP to accelerate healthcare AI advancement and a Mayo Clinic NLP-as-a-service implementation. NPJ Digit Med. 2019; 2:130 Epub 2019 Dec 17 PMID: [31872069](https://pubmed.ncbi.nlm.nih.gov/31872069)   PMCID: 6917754   DOI: 10.1038/s41746-019-0208-8
 
-# Full Bibliography (Grouped by Topic)
+## Full Bibliography (Grouped by Topic)
 
-## Clinical Information Retrieval Leveraging NLP
+### Clinical Information Retrieval Leveraging NLP
 
 *  Liu S, Wang Y,__Wen A__, Wang L, Hong N, Shen F, Bedrick S, Hersh W, Liu H.  Implementation of a Cohort Retrieval System for Clinical Data Repositories Using the Observational Medical Outcomes Partnership Common Data Model: Proof-of-Concept System Validation. JMIR Med Inform. 2020 Oct 6; 8 (10):e17376 Epub 2020 Oct 06 PMID: [33021486](https://pubmed.ncbi.nlm.nih.gov/33021486)   PMCID: 7576539   DOI: 10.2196/17376
 *  Chamberlin SR, Bedrick SD, Cohen AM, Wang Y, __Wen A__, Liu S, Liu H, Hersh WR.  Evaluation of patient-level retrieval from electronic health record data for a cohort discovery task. JAMIA Open. 2020 Oct; 3 (3):395-404 Epub 2020 July 26 PMID: [33215074](https://pubmed.ncbi.nlm.nih.gov/33215074)   PMCID: 7660955
@@ -31,7 +31,7 @@ This is the front page of a website that is powered by the [academicpages templa
 *  Wang Y, __Wen A__, Liu S, Liu H. MayoNLPTeam at the TREC 2018 Precision Medicine Track: Simple Information Retrieval Approach Is the Best Text REtrieval Conference (TREC) - Precision Medicine Track. 2018
 *  Wu S, __Wen A__, Wang Y, Liu S, Liu H.  Aligned-Layer Text Search in Clinical Notes. Stud Health Technol Inform. 2017; 245:629-633 PMID: [29295172](https://pubmed.ncbi.nlm.nih.gov/29295172)
 
-## Clinical Information Extraction and its Applications
+### Clinical Information Extraction and its Applications
 
 *  Tsuji S, __Wen A__, Takahashi N, Zhang H, Ogasawara K, Jiang G.  Developing a RadLex-Based Named Entity Recognition Tool for Mining Textual Radiology Reports: Development and Performance Evaluation Study. J Med Internet Res. 2021 Oct 29; 23 (10):e25378 PMID: [34714247](https://pubmed.ncbi.nlm.nih.gov/34714247)   DOI: 10.2196/25378   
 *  __Wen A__, Wang L, He H, Liu S, Fu S, Sohn S, Kugel JA, Kaggal VC, Huang M, Wang Y, Shen F, Fan J, Liu H.  An aberration detection-based approach for sentinel syndromic surveillance of COVID-19 and other novel influenza-like illnesses. J Biomed Inform. 2020 Dec 13; 113:103660 [Epub ahead of print] PMID: [33321199](https://pubmed.ncbi.nlm.nih.gov/33321199)   PMCID: 7832634   DOI: 10.1016/j.jbi.2020.103660
@@ -40,7 +40,7 @@ This is the front page of a website that is powered by the [academicpages templa
 *  __Wen A__, Fu S, Moon S, El Wazir M, Rosenbaum A, Kaggal VC, Liu S, Sohn S, Liu H, Fan J.  Desiderata for delivering NLP to accelerate healthcare AI advancement and a Mayo Clinic NLP-as-a-service implementation. NPJ Digit Med. 2019; 2:130 Epub 2019 Dec 17 PMID: [31872069](https://pubmed.ncbi.nlm.nih.gov/31872069)   PMCID: 6917754   DOI: 10.1038/s41746-019-0208-8
 *  Fan Y, __Wen A__, Shen F, Sohn S, Liu H, Wang L.  Evaluating the Impact of Dictionary Updates on Automatic Annotations Based on Clinical NLP Systems. AMIA Jt Summits Transl Sci Proc. 2019; 2019:714-721 Epub 2019 May 06 PMID: [31259028](https://pubmed.ncbi.nlm.nih.gov/31259028)   PMCID: 6568114   
 
-## NLP and Standards (Particularly HL7 FHIR and the OHDSI CDM)
+### NLP and Standards (Particularly HL7 FHIR and the OHDSI CDM)
 
 *  Liu S, Luo Y, Stone D, Zong N, __Wen A__, Yu Y, Rasmussen LV, Wang F, Pathak J, Liu H, Jiang G.  Integration of NLP2FHIR Representation with Deep Learning Models for EHR Phenotyping: A Pilot Study on Obesity Datasets AMIA Jt Summits Transl Sci Proc. 2021 (in press). 2021.   
 *  __Wen A__, Rasmussen LV, Stone D, Liu S, Kiefer R, Adekkanattu P, Brandt PS, Pacheco JA, Luo Y, Wang F, Pathak J, Liu H, Jiang G.  CQL4NLP: Development and Integration of FHIR NLP Extensions in Clinical Quality Language for EHR-driven Phenotyping AMIA Jt Summits Transl Sci Proc. 2021 (in press). 2021.  
@@ -54,7 +54,7 @@ This is the front page of a website that is powered by the [academicpages templa
 *  Hong N, __Wen A__, Mojarad MR, Sohn S, Liu H, Jiang G.  Standardizing Heterogeneous Annotation Corpora Using HL7 FHIR for Facilitating their Reuse and Integration in Clinical NLP. AMIA Annu Symp Proc. 2018; 2018:574-583 Epub 2018 Dec 05 PMID: [30815098](https://pubmed.ncbi.nlm.nih.gov/30815098)   PMCID: 6371380   
 *  Hong N, __Wen A__, Shen F, Sohn S, Liu S, Liu H, Jiang G.  Integrating Structured and Unstructured EHR Data Using an FHIR-based Type System: A Case Study with Medication Data. AMIA Jt Summits Transl Sci Proc. 2018; 2017:74-83 Epub 2018 May 18 PMID: [29888045](https://pubmed.ncbi.nlm.nih.gov/29888045)   PMCID: 5961797   
 
-## Patient Representations and Finding Like Patients
+### Patient Representations and Finding Like Patients
 
 *  __Wen A__, Shen F, Moon S, Liu H, Fan J, "A Deep Profiling and Visualization Framework to Audit Clinical Assessment Variation," 2020 IEEE 33rd International Symposium on Computer-Based Medical Systems (CBMS), Rochester, MN, USA, 2020, pp. 546-551, doi: 10.1109/CBMS49503.2020.00109.
 *  Shen F, __Wen A__, Liu H, "Enrich Rare Disease Phenotypic Characterizations via a Graph Convolutional Network Based Recommendation System," 2020 IEEE 33rd International Symposium on Computer-Based Medical Systems (CBMS), Rochester, MN, USA, 2020, pp. 37-40
@@ -63,7 +63,7 @@ This is the front page of a website that is powered by the [academicpages templa
 *  Shen F, Liu S, Wang Y, __Wen A__, Wang L, Liu H.  Utilization of Electronic Medical Records and Biomedical Literature to Support the Diagnosis of Rare Diseases Using Data Fusion and Collaborative Filtering Approaches. JMIR Med Inform. 2018 Oct 10; 6 (4):e11301 PMID: [30305261](https://pubmed.ncbi.nlm.nih.gov/30305261)   PMCID: 6231873   DOI: 10.2196/11301
 *  Shen F, Liu S, Wang Y, Wang L, __Wen A__, Limper A, Liu H.  Constructing Node Embeddings for Human Phenotype Ontology to Assist Phenotypic Similarity Measurement IEEE International Conference on Healthcare Informatics Workshop (ICHI-W). 2018; 29-33. 
 
-## Other/Miscellaneous
+### Other/Miscellaneous
 
 *  Zong N, Ngo V, Stone DJ, __Wen A__, Zhao Y, Yu Y, Liu S, Huang M, Wang C, Jiang G.  Leveraging Genetic Reports and Electronic Health Records for the Prediction of Primary Cancers: Algorithm Development and Validation Study. JMIR Med Inform. 2021 May 25; 9 (5):e23586 PMID: [34032581](https://pubmed.ncbi.nlm.nih.gov/34032581)   PMCID: 8188315   DOI: 10.2196/23586
 *  Zong N, Wong RSN, Yu Y, __Wen A__, Huang M, Li N.  Drug-target prediction utilizing heterogeneous bio-linked network embeddings. Brief Bioinform. 2021 Jan 18; 22 (1):568-580 PMID: [31885036](https://pubmed.ncbi.nlm.nih.gov/31885036)   DOI: 10.1093/bib/bbz147   
