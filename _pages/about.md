@@ -12,7 +12,7 @@ I am a Senior Data Science Analyst currently at the Mayo Clinic, with a research
 
 I obtained my MSc in Biomedical Informatics from the Oregon Health & Sciences University, where I was advised by [Dr. Stephen Wu](https://sites.google.com/site/stephentzeinnwu/). Prior to that, I obtained my BS in Computer Science from the Portland State University.
 
-## Selected First-Author Peer-Reviewed Publications
+## Selected Peer-Reviewed Publications
 
 *  __Wen A__, Wang L, He H, Liu S, Fu S, Sohn S, Kugel JA, Kaggal VC, Huang M, Wang Y, Shen F, Fan J, Liu H.  An aberration detection-based approach for sentinel syndromic surveillance of COVID-19 and other novel influenza-like illnesses. J Biomed Inform. 2020 Dec 13; 113:103660 [Epub ahead of print] PMID: [33321199](https://pubmed.ncbi.nlm.nih.gov/33321199)   PMCID: 7832634   DOI: 10.1016/j.jbi.2020.103660
 *  __Wen A__, Shen F, Moon S, Liu H, Fan J, "A Deep Profiling and Visualization Framework to Audit Clinical Assessment Variation," 2020 IEEE 33rd International Symposium on Computer-Based Medical Systems (CBMS), Rochester, MN, USA, 2020, pp. 546-551, doi: 10.1109/CBMS49503.2020.00109.
