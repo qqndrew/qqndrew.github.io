@@ -73,3 +73,9 @@ I obtained my MSc in Biomedical Informatics from the Oregon Health & Sciences Un
 *  Peng S, Shen F, __Wen A__, Wang L, Fan Y, Liu X, Liu H.  Detecting Lifestyle Risk Factors for Chronic Kidney Disease With Comorbidities: Association Rule Mining Analysis of Web-Based Survey Data. J Med Internet Res. 2019 Dec 10; 21 (12):e14204 PMID: [31821152](https://pubmed.ncbi.nlm.nih.gov/31821152)   PMCID: 6930505   DOI: 10.2196/14204
 *  Peng S, Fan Y, Wang L, __Wen A__, Liu X, Liu H, Shen F.  Leveraging Association Rule Mining to Detect Pathophysiological Mechanisms of Chronic Kidney Disease Complicated by Metabolic Syndrome IEEE International Conference on Bioinformatics and Biomedicine (BIBM). 2018; 1302-1309.     
  
+## Conference Presentations and Organized Workshops
+* __Workshop:__ On Clinical Information Extraction for Collaborative EHR-based Clinical Research. Workshop Co-Organizer. Oct 31, 2021; 2021 AMIA Annual Symposium
+* __Podium Presentation:__ Accelerating Development of Learning Healthcare Systems via Distantly Supervised Knowledge Discovery. Nov 18, 2020; 2020 AMIA Annual Symposium
+* __Paper Presentation:__ A Deep Profiling and Visualization Framework to Audit Clinical Assessment Variation. Jul 29, 2020; IEEE 33rd International Symposium on Computer-Based Medical Systems
+* __Podium Presentation:__ Visualizing Clinical Assessment Variation for Quality Improvement: An Example in Preoperative Physical Status Classification. Mar 23, 2020; 2020 AMIA Informatics Summit
+* __Paper Presentation:__ Enhancing Clinical Information Retrieval through Contextual Queries and Indices. Dec 10, 2019; 2019 IEEE International Conference on Big Data
