@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Data Science Analyst currently at the Mayo Clinic, where I have the great privelege of being mentored by Dr. Hongfang Liu. My research focuses on clinical natural language processing methodology development using big data,  the usage of clinical NLP to enhance information extraction and retrieval, as well as its applicability to digital health applications. 
+I am a Senior Data Science Analyst currently at the Mayo Clinic, where I have the great privilege of being mentored by Dr. Hongfang Liu. My research focuses on clinical natural language processing methodology development using big data,  the usage of clinical NLP to enhance information extraction and retrieval, as well as its applicability to digital health applications. 
 
 I obtained my MSc in Biomedical Informatics from the Oregon Health & Sciences University, where I was advised by [Dr. Stephen Wu](https://sites.google.com/site/stephentzeinnwu/). Prior to that, I obtained my BS in Computer Science from the Portland State University.
 
