@@ -13,17 +13,21 @@ I am a Senior Data Science Analyst currently at the Mayo Clinic, where I have th
 I obtained my MSc in Biomedical Informatics from the Oregon Health & Sciences University, where I was advised by [Dr. Stephen Wu](https://sites.google.com/site/stephentzeinnwu/). Prior to that, I obtained my BS in Computer Science from the Portland State University.
 
 ## Selected Peer-Reviewed Publications
-
+*  __Wen A__, He H, Fu S, Liu S, Miller K, Wang L, Roberts KE, Bedrick SD, Hersh WR, Liu H, The IMPACT framework and implementation for accessible in silico clinical phenotyping in the digital era. npj Digit. Med. 6, 132 (2023). https://doi.org/10.1038/s41746-023-00878-9
 *  __Wen A__, Wang L, He H, Liu S, Fu S, Sohn S, Kugel JA, Kaggal VC, Huang M, Wang Y, Shen F, Fan J, Liu H.  An aberration detection-based approach for sentinel syndromic surveillance of COVID-19 and other novel influenza-like illnesses. J Biomed Inform. 2020 Dec 13; 113:103660 [Epub ahead of print] PMID: [33321199](https://pubmed.ncbi.nlm.nih.gov/33321199)   PMCID: 7832634   DOI: 10.1016/j.jbi.2020.103660
-*  __Wen A__, Shen F, Moon S, Liu H, Fan J, "A Deep Profiling and Visualization Framework to Audit Clinical Assessment Variation," 2020 IEEE 33rd International Symposium on Computer-Based Medical Systems (CBMS), Rochester, MN, USA, 2020, pp. 546-551, doi: 10.1109/CBMS49503.2020.00109.
+*  __Wen A__, Shen F, Moon S, Liu H, Fan J. A Deep Profiling and Visualization Framework to Audit Clinical Assessment Variation. 2020 IEEE 33rd International Symposium on Computer-Based Medical Systems (CBMS), Rochester, MN, USA, 2020, pp. 546-551, doi: 10.1109/CBMS49503.2020.00109.
 *  __Wen A__, Wang Y, Kaggal V, Liu S, Liu H, Fan J.  Enhancing Clinical Information Retrieval through Context-Aware Queries and Indices. Proceedings of the 2019 IEEE International Conference on Big Data (Big Data). 2019; 2800-2807. Epub 2020 Feb 24. 
 *  __Wen A__, El Wazir M, Moon S, Fan J. Adapting and evaluating a deep learning language model for clinical why-question answering. JAMIA Open. 2020 Feb 04. DOI: 10.1093/jamiaopen/ooz072
 *  __Wen A__, Fu S, Moon S, El Wazir M, Rosenbaum A, Kaggal VC, Liu S, Sohn S, Liu H, Fan J.  Desiderata for delivering NLP to accelerate healthcare AI advancement and a Mayo Clinic NLP-as-a-service implementation. NPJ Digit Med. 2019; 2:130 Epub 2019 Dec 17 PMID: [31872069](https://pubmed.ncbi.nlm.nih.gov/31872069)   PMCID: 6917754   DOI: 10.1038/s41746-019-0208-8
+
+## Book Chapters
+*  Fu S, __Wen A__, Liu, H. (2023). Clinical Natural Language Processing in Secondary Use of EHR for Research. In: Richesson RL, Andrews JE, Fultz Hollis, K (eds) Clinical Research Informatics. Health Informatics. Springer, Cham. https://doi.org/10.1007/978-3-031-27173-1_21
 
 ## Full Bibliography (Peer Reviewed, Grouped by Topic)
 
 ### Clinical Information Retrieval Leveraging NLP
 
+*  __Wen A__, He H, Fu S, Liu S, Miller K, Wang L, Roberts KE, Bedrick SD, Hersh WR, Liu H, The IMPACT framework and implementation for accessible in silico clinical phenotyping in the digital era. npj Digit. Med. 6, 132 (2023). https://doi.org/10.1038/s41746-023-00878-9
 *  Liu S, Wang Y,__Wen A__, Wang L, Hong N, Shen F, Bedrick S, Hersh W, Liu H.  Implementation of a Cohort Retrieval System for Clinical Data Repositories Using the Observational Medical Outcomes Partnership Common Data Model: Proof-of-Concept System Validation. JMIR Med Inform. 2020 Oct 6; 8 (10):e17376 Epub 2020 Oct 06 PMID: [33021486](https://pubmed.ncbi.nlm.nih.gov/33021486)   PMCID: 7576539   DOI: 10.2196/17376
 *  Chamberlin SR, Bedrick SD, Cohen AM, Wang Y, __Wen A__, Liu S, Liu H, Hersh WR.  Evaluation of patient-level retrieval from electronic health record data for a cohort discovery task. JAMIA Open. 2020 Oct; 3 (3):395-404 Epub 2020 July 26 PMID: [33215074](https://pubmed.ncbi.nlm.nih.gov/33215074)   PMCID: 7660955
 *  __Wen A__, Wang Y, Kaggal V, Liu S, Liu H, Fan J.  Enhancing Clinical Information Retrieval through Context-Aware Queries and Indices. Proceedings of the 2019 IEEE International Conference on Big Data (Big Data). 2019; 2800-2807. Epub 2020 Feb 24.
@@ -35,6 +39,7 @@ I obtained my MSc in Biomedical Informatics from the Oregon Health & Sciences Un
 
 ### Clinical Information Extraction and its Applications
 
+*  Fu S, __Wen A__, Liu, H. (2023). Clinical Natural Language Processing in Secondary Use of EHR for Research. In: Richesson RL, Andrews JE, Fultz Hollis, K (eds) Clinical Research Informatics. Health Informatics. Springer, Cham. https://doi.org/10.1007/978-3-031-27173-1_21
 *  Huang M, __Wen A__, He H, Wang L, Liu S, Wang Y, Zong N, Yu Y, Prigge JE, Costello BA, Shah ND, Ting HH, Doubeni C, Fan JW, Liu H, Patten CA.  Midwest rural-urban disparities in use of patient online services for COVID-19. J Rural Health. 2022 Sep; 38 (4):908-915 Epub 2022 Mar 08 PMID: 35261092   PMCID: 9115171   DOI: 10.1111/jrh.12657
 *  Wang L, Fu S, __Wen A__, Ruan X, He H, Liu S, Moon S, Mai M, Riaz IB, Wang N, Yang P, Xu H, Warner JL, Liu H.  Assessment of Electronic Health Record for Cancer Research and Patient Care Through a Scoping Review of Cancer Natural Language Processing. JCO Clin Cancer Inform. 2022 Jul; 6:e2200006 PMID: 35917480   PMCID: 9470142   DOI: 10.1200/CCI.22.00006
 *  Huang M, Khurana A, Mastorakos G, __Wen A__, He H, Wang L, Liu S, Wang Y, Zong N, Prigge J, Costello B, Shah N, Ting H, Fan J, Patten C, Liu H.  Patient Portal Messaging for Asynchronous Virtual Care During the COVID-19 Pandemic: Retrospective Analysis. JMIR Hum Factors. 2022 May 5; 9 (2):e35187 Epub 2022 May 05 PMID: 35171108   PMCID: 9084445   DOI: 10.2196/35187
@@ -70,7 +75,8 @@ I obtained my MSc in Biomedical Informatics from the Oregon Health & Sciences Un
 
 ### Patient Representations and Finding Like Patients
 
-*  __Wen A__, Shen F, Moon S, Liu H, Fan J, "A Deep Profiling and Visualization Framework to Audit Clinical Assessment Variation," 2020 IEEE 33rd International Symposium on Computer-Based Medical Systems (CBMS), Rochester, MN, USA, 2020, pp. 546-551, doi: 10.1109/CBMS49503.2020.00109.
+*  Li R, __Wen A__, Gao G, Liu H. MLGAN: a Meta-Learning based Generative Adversarial Network adapter for rare disease differentiation tasks. In Proceedings of the 14th ACM International Conference on Bioinformatics, Computational Biology, and Health Informatics (BCB '23). Association for Computing Machinery, New York, NY, USA, Article 11, 1–10. https://doi.org/10.1145/3584371.3612967
+*  __Wen A__, Shen F, Moon S, Liu H, Fan J. A Deep Profiling and Visualization Framework to Audit Clinical Assessment Variation. 2020 IEEE 33rd International Symposium on Computer-Based Medical Systems (CBMS), Rochester, MN, USA, 2020, pp. 546-551, doi: 10.1109/CBMS49503.2020.00109.
 *  Shen F, __Wen A__, Liu H, "Enrich Rare Disease Phenotypic Characterizations via a Graph Convolutional Network Based Recommendation System," 2020 IEEE 33rd International Symposium on Computer-Based Medical Systems (CBMS), Rochester, MN, USA, 2020, pp. 37-40
 *  Shen F, __Wen A__, Liu H, "Subgrouping Rare Disease Patients Leveraging the Human Phenotype Ontology Embeddings," 2020 IEEE 33rd International Symposium on Computer-Based Medical Systems (CBMS), Rochester, MN, USA, 2020, pp. 169-172, doi: 10.1109/CBMS49503.2020.00039.
 *  Shen F, Peng S, Fan Y, __Wen A__, Liu S, Wang Y, Wang L, Liu H.  HPO2Vec+: Leveraging heterogeneous knowledge resources to enrich node embeddings for the Human Phenotype Ontology. J Biomed Inform. 2019 Aug; 96:103246 Epub 2019 June 27 PMID: [31255713](https://pubmed.ncbi.nlm.nih.gov/31255713)   PMCID: 6710011   DOI: 10.1016/j.jbi.2019.103246
