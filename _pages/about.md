@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Data Science Analyst currently at the Mayo Clinic, where I have the great privilege of being mentored by Dr. Hongfang Liu. My research focuses on clinical natural language processing methodology development using big data,  the usage of clinical NLP to enhance information extraction and retrieval, as well as its applicability to digital health applications. 
+I am a Data Scientist II at the Center for Translational AI Excellence and Applications in Medicine, University of Texas Health Science Center at Houston, as well as a 1st Year PhD Student in the Department of Computer Science, Rice University. In my current roles, I have the great privilege of being mentored by Drs. [Hongfang Liu](https://sbmi.uth.edu/faculty-and-staff/hongfang-liu.htm) and [Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html). Prior to my current position, I was a Senior Data Science Analyst at the Department of Artificial Intelligence & Informatics Research, Mayo Clinic, in the ADVANCE Lab, also under the direction of Dr. Hongfang Liu. My research focuses on clinical natural language processing methodology development using big data,  the usage of clinical NLP to enhance information extraction and retrieval, as well as its applicability to digital health applications. 
 
-I obtained my MSc in Biomedical Informatics from the Oregon Health & Sciences University, where I was advised by [Dr. Stephen Wu](https://sites.google.com/site/stephentzeinnwu/). Prior to that, I obtained my BS in Computer Science from the Portland State University.
+I obtained my MSc in Biomedical Informatics from the Oregon Health & Science University, where I was advised by [Dr. Stephen Wu](https://sites.google.com/site/stephentzeinnwu/). Prior to that, I obtained my BS in Computer Science from the Portland State University.
 
 ## Selected Peer-Reviewed Publications
 *  __Wen A__, He H, Fu S, Liu S, Miller K, Wang L, Roberts KE, Bedrick SD, Hersh WR, Liu H, The IMPACT framework and implementation for accessible in silico clinical phenotyping in the digital era. npj Digit. Med. 6, 132 (2023). https://doi.org/10.1038/s41746-023-00878-9
