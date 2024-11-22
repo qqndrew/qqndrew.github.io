@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Andrew Wen"
   avatar           : "profile.jpg"
-  bio              : "Data Scientist II"
+  bio              : "Data Scientist II, The University of Texas Health Science Center at Houston"
   location         : "Houston, TX"
-  employer         : "The University of Texas Health Science Center at Houston"
+  employer         : 
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=andrew+wen"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=ipa09SEAAAAJ&view_op=list_works&sortby=pubdate"
   email            :
